@@ -1,7 +1,7 @@
 # DirX: File and folder handling tools
 (Using Python3 and tkinter)
 
-Start Application: run dirx.py
+Start Application: python3 dirx.py
 
 [INTRO starts at line 17]
 
