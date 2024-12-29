@@ -30,6 +30,7 @@ File organizer uses 4 different methods to organize files.
 2. By Extension: Files will be organized in separate folders based on their extension.
 3. By Date Created
 4. By Date Modified
+
 Last operation can be undone.
 
 
