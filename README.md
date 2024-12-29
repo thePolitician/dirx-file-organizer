@@ -3,8 +3,6 @@
 
 Start Application: python3 dirx.py
 
-[INTRO starts at line 17]
-
 There is a lot that can be impoved in this project so feel free to contribute.
 A few things which I think can be improved or added-
 1. Have a look at how threading is used in DirX (it may not be safe) as I have no expertise in this topic.
@@ -14,6 +12,7 @@ A few things which I think can be improved or added-
 5. Log generation for each tab. Log which file moved to which folder, which file renamed to what filename, which files were encrypted/decrypted.
 6. Other temporary locations can be added in Clear Temp section like user downloads, system temp, update files etc.
 
+# Introduction
 DirX has 5 modules currently:
 1. File Organizer
 2. Folder Unpack
